@@ -1,15 +1,19 @@
 favorite_languages = {
-    'jen': 'python',
-    'sarah': 'c',
-    'edward': 'ruby',
-    'phil': 'python'
+    'jen': ['python', 'ruby'],
+    'sarah': ['c'],
+    'edward': ['ruby', 'go'],
+    'phil': ['python', 'haskell']
 }
 
-names = ['ivan', 'carl', 'phil', 'watson']
-
-for name in names:
-    if name not in favorite_languages:
-        print(f"Добрый день, предлагаю вам пройти опрос {name.title()}")
+for name, languages in favorite_languages.items():
+    if len(languages) > 1:
+        print(f"\n{name.title()}`s favorite languages are:")
+        for language in languages:
+            print(f"\t{language.title()}")
     else:
-        print(f"{name.title()}, Спасибо что прошли опрос!")
+        for language in languages:
+            print(f"\n{name.title()}`s favorite languages is {language.title()}")
+
+
+
 
