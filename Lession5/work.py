@@ -10,13 +10,13 @@ elif 'red' in alien_color:
 age = 65
 if age < 2:
     print('ti pups')
-elif age >= 2 and age < 4:
+elif 2 <= age < 4:
     print('you dite')
-elif age >= 4 and age < 13:
+elif 4 <= age < 13:
     print('you children')
-elif age >=13 and age < 20:
+elif 13 <= age < 20:
     print('you teenager')
-elif age >= 20 and age < 65:
+elif 20 <= age < 65:
     print('you vzrosliy')
 elif age >= 65:
     print('you ded')
