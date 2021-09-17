@@ -1,0 +1,22 @@
+asd.txt не найден.
+asd.txt не найден.
+asd.txt не найден.
+asd.txt не найден.
+asd.txt не найден.
+asd.txt не найден.
+asd.txt, test.txt не найден.
+asd.txt не найден.
+asd.txt не найден.|| <class 'datetime.datetime'>
+ не найден.|| <class 'datetime.datetime'>
+asd.txt не найден.|| <module 'datetime' from 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+ не найден.|| <module 'datetime' from 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+asd.txt не найден.|| <module 'datetime' from 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+ не найден.|| <module 'datetime' from 'C:\\Users\\admin\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py'>
+asd.txt не найден.|| <class 'datetime.time'>
+ не найден.|| <class 'datetime.time'>
+asd.txt не найден.|| 2021-09-15 14:11:39.504267
+ не найден.|| 2021-09-15 14:11:39.504267
+asd.txt не найден.|| 2021-09-15 14:12:05.254200
+alibaba.txt не найден.|| 2021-09-15 14:12:05.254200
+asd.txt не найден.|| 2021-09-15 14:42:01.313829
+alibaba.txt не найден.|| 2021-09-15 14:42:01.329411
